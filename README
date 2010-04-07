@@ -1,8 +1,7 @@
-prettyPhoto v3.0
+prettyPhoto v3.0 - I18n Version
 © Copyright, Stephane Caron
 http://www.no-margin-for-errors.com
-
-
+                               
 ============================= Released under =============================
 http://creativecommons.org/licenses/by/2.5/
 
@@ -19,3 +18,16 @@ media modal box.
 
 Please refer to http://www.no-margin-for-errors.com/projects/prettyPhoto/
 for all the details on how to use. 
+
+
+============================== I18n ===============================
+
+This version of prettyPhoto support multiple languages based
+on the page <body> class and a set of override classes.
+
+- first you need to define your current locale on the body tag : <body class="fr">
+- locale CSS are located in /css/{locale}.css                                     
+- localized images are stored in images/prettyPhoto/locales/{locale}/
+- edit css/prettyPhoto.css and add any locale you need : @import url(fr.css);
+- PSD for buttons are included, feel free to contribute new locale CSS and images.
+- default locale is EN 
