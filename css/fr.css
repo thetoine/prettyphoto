@@ -5,10 +5,18 @@
 	Author: Antoine Girard (antoine.girard [at] gmail.com)
 ----------------------------------- */
 
-	/* ----------------------------------
-		Dark Rounded Theme
-	----------------------------------- */
+	body.fr div.light_rounded .pp_next:hover { background: url(../images/prettyPhoto/locales/fr/btnNext.png) center right  no-repeat; cursor: pointer; } /* Next button */
+	body.fr div.light_rounded .pp_previous:hover { background: url(../images/prettyPhoto/locales/fr/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
+	body.fr div.light_rounded .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/locales/fr/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
   
 	body.fr div.dark_rounded .pp_next:hover { background: url(../images/prettyPhoto/locales/fr/btnNext.png) center right  no-repeat; cursor: pointer; } /* Next button */
 	body.fr div.dark_rounded .pp_previous:hover { background: url(../images/prettyPhoto/locales/fr/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
 	body.fr div.dark_rounded .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/locales/fr/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
+	
+	body.fr div.dark_square .pp_next:hover { background: url(../images/prettyPhoto/locales/fr/btnNext.png) center right  no-repeat; cursor: pointer; } /* Next button */
+	body.fr div.dark_square .pp_previous:hover { background: url(../images/prettyPhoto/locales/fr/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
+	body.fr div.dark_square .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/locales/fr/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
+	
+	body.fr div.light_square .pp_next:hover { background: url(../images/prettyPhoto/locales/fr/btnNext.png) center right  no-repeat; cursor: pointer; } /* Next button */
+	body.fr div.light_square .pp_previous:hover { background: url(../images/prettyPhoto/locales/fr/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
+	body.fr div.light_square .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/locales/fr/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
