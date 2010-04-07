@@ -1,0 +1,14 @@
+/* ----------------------------------
+	PrettyPhoto local CSS
+	Language: es
+	Date: April 7th 2010
+	Author: Antoine Girard (antoine.girard [at] gmail.com)
+----------------------------------- */
+
+	/* ----------------------------------
+		Dark Rounded Theme
+	----------------------------------- */
+  
+	body.es div.dark_rounded .pp_next:hover { background: url(../images/prettyPhoto/locales/es/btnNext.png) center right  no-repeat; cursor: pointer; } /* Next button */
+	body.es div.dark_rounded .pp_previous:hover { background: url(../images/prettyPhoto/locales/es/btnPrevious.png) center left no-repeat; cursor: pointer; } /* Previous button */
+	body.es div.dark_rounded .pp_close { width: 75px; height: 22px; background: url(../images/prettyPhoto/locales/es/sprite.png) -1px -1px no-repeat; cursor: pointer; } /* Close button */
